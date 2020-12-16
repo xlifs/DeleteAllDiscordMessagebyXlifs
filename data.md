@@ -1,5 +1,6 @@
 # Undiscord - Delete all messages in a Discord channel or DM
 # Delete All Discord Message By Xlifs
+# PRESS Press Ctrl+Shift+I to open the inspect window
 
 1. Install a **browser extension** for managing **user scripts** (skip if you already have one):
     
@@ -46,10 +47,6 @@ If you have issues or just need help [open an issue here](https://github.com/vic
 - You can use your computer and discord while it is running (unlike macro key scripts)
 - Start/stop whenever you want
 - Works with even thousands of messages
-
-----
-
-Originally from https://gist.github.com/victornpb/135f5b346dea4decfc8f63ad7d9cc182
 
 ----
 
